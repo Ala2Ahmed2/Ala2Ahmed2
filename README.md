@@ -1,3 +1,7 @@
-## Hi 👋! My name is Alaa Ahmed and I'm a Mobile application developer.
+# Hi, I'm Alaa 👋 
+I'm Alaa Ahmed a Junior Android Developer with more than 2 years of experience.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ala2Ahmed2&show_icons=true&theme=dracula)](https://github.com/Ala2Ahmed2/github-readme-stats)
+## My stats ⭐
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Ala2Ahmed2&show_icons=true&theme=dracula"/>
+
+<img alt="top langs" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ala2Ahmed2&theme=dracula&layout=compact"/>
